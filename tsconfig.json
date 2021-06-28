@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "alwaysStrict": true,
+        "sourceMap": true,
+        "module": "ESNext",
+        "target": "ES5",
+        "moduleResolution": "Node",
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ESNext",
+            "ScriptHost"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
